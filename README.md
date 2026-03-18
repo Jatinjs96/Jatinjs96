@@ -1,6 +1,6 @@
 ## About Me
 
-I’m a data-driven professional with a strong foundation in project management, business analytics, and problem-solving, currently transitioning deeper into the world of data analytics. With experience in the fintech domain at FIS, I’ve worked on global projects where I combined structured execution with analytical thinking to drive meaningful outcomes.
+Hi, I'm Jatin! I’m a data-driven professional with a strong foundation in project management, business analytics, and problem-solving, currently transitioning deeper into the world of data analytics. With experience in the fintech domain at FIS, I’ve worked on global projects where I combined structured execution with analytical thinking to drive meaningful outcomes.
 
 I enjoy working with data to uncover insights, identify patterns, and solve real-world business problems. My toolkit includes Excel, SQL, Python, and Power BI, which I use to build dashboards, analyze datasets, and support data-driven decision-making. I’m particularly interested in translating complex data into clear, actionable stories that create impact.
 
