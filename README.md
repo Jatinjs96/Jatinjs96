@@ -1,17 +1,17 @@
 ## About Me
 
+I’m a data-driven professional with a strong foundation in project management, business analytics, and problem-solving, currently transitioning deeper into the world of data analytics. With experience in the fintech domain at FIS, I’ve worked on global projects where I combined structured execution with analytical thinking to drive meaningful outcomes.
 
-🔭 I’m currently working on data analysis projects using Excel, SQL, Python, and Power BI, focusing on real-world business problems
+I enjoy working with data to uncover insights, identify patterns, and solve real-world business problems. My toolkit includes Excel, SQL, Python, and Power BI, which I use to build dashboards, analyze datasets, and support data-driven decision-making. I’m particularly interested in translating complex data into clear, actionable stories that create impact.
 
-🌱 I’m currently learning advanced data analytics, visualization techniques, and improving my SQL & Python skills
+Through hands-on projects and programs like CAPM®, Skillovilla Data Analytics, and Finlatics Business Analytics Experience, I’ve developed a strong understanding of analytics, visualization, and structured thinking.
 
-👯 I’m looking to collaborate on data analytics projects, dashboards, and problem-solving case studies
+I’m always looking to learn, collaborate, and build solutions that bridge the gap between business and data.
 
-🤔 I’m looking for help with advanced analytics, optimization problems, and building scalable data solutions
-
-💬 Ask me about data analysis, Power BI dashboards, SQL queries, and project management in fintech
+📚 I'm a Certified Associate in Project Management(Project Management Institute)
 
 📫 How to reach me: jatinjs2296@gmail.com
 
-⚡ Fun fact: I transitioned from project management in fintech to data analytics, combining business understanding with data-driven decision makin
+⚡ Fun fact: I am transitioning from project management in fintech to data analytics, combining business understanding with data-driven decision making
+
 
